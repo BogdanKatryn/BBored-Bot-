@@ -1,0 +1,17 @@
+{
+  "name": "bbored_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BB.js",
+  "scripts": {
+    "BB.js": "nodemon BB.js",
+    "start": "node BB.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.22"
+  }
+}
